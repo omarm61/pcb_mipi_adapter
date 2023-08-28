@@ -401,6 +401,12 @@
     (path "/91051729-874d-43f0-a1a2-c7d950b2f975/13456022-ca61-43d7-9c61-8dbe3739fdde"
       (reference "U?") (unit 1) (value "AP3402") (footprint "Package_TO_SOT_SMD:TSOT-23-6")
     )
+    (path "/04c47af7-8e31-40d3-be90-665023313120/2fb5c0ce-9736-404d-833a-19514fb8bb30"
+      (reference "U?") (unit 1) (value "D3V3XA4B10LP") (footprint "Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm")
+    )
+    (path "/04c47af7-8e31-40d3-be90-665023313120/bcfd3678-8896-4381-8dee-f0dc1c8dd22d"
+      (reference "U?") (unit 1) (value "USBLC6-2P6") (footprint "Package_TO_SOT_SMD:SOT-666")
+    )
     (path "/5ba3e7e1-149c-4828-b319-acf737e6a433/c8c4b2e4-58aa-476d-97d2-327db4652100"
       (reference "U?") (unit 1) (value "CYUSB306X") (footprint "")
     )
